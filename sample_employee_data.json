@@ -1,0 +1,4352 @@
+[
+  {
+    "employeeNumber": "EMP6205",
+    "fullName": "Employee 98",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1982-10-23T17:06:37.285Z",
+    "mobileNo": "8177625187",
+    "permanentAddress": {
+      "street": "Street 59",
+      "city": "City 9",
+      "state": "State 4",
+      "zipcode": "59841"
+    },
+    "currentAddress": {
+      "street": "Street 33",
+      "city": "City 6",
+      "state": "State 4",
+      "zipcode": "75613"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2015-08-17T08:10:53.145Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2014
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "offeredCTC": "93763 USD",
+    "appraisal": {
+      "date": "2020-08-14T12:04:32.635Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-01-23T05:36:35.654Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 48",
+      "bank": "Bank 7",
+      "bankIFSC": "IFSC3930",
+      "branch": "Branch 4",
+      "accountNo": "696141512795",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4707",
+      "UAN": "UAN2280",
+      "email": "employee42@example.com",
+      "mobile": "4000190360",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 3",
+      "Skill 10",
+      "Skill 6"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "68%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66372,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": false,
+        "CTC": 72061,
+        "bonus": [
+          {
+            "amount": 4884,
+            "payoutDate": "2023-03-22T22:32:38.624Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP4307",
+    "fullName": "Employee 52",
+    "gender": "Female",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1995-01-27T02:10:01.092Z",
+    "mobileNo": "8028465460",
+    "permanentAddress": {
+      "street": "Street 10",
+      "city": "City 6",
+      "state": "State 3",
+      "zipcode": "21920"
+    },
+    "currentAddress": {
+      "street": "Street 93",
+      "city": "City 3",
+      "state": "State 5",
+      "zipcode": "88947"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2015-05-07T12:26:58.558Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2012
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "offeredCTC": "61538 USD",
+    "appraisal": {
+      "date": "2022-02-09T09:52:58.369Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-05-02T20:24:17.260Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 18",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC5023",
+      "branch": "Branch 7",
+      "accountNo": "854444803632",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5852",
+      "UAN": "UAN7960",
+      "email": "employee41@example.com",
+      "mobile": "4128673388",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 3",
+      "Skill 4"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "48%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 51141,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": false,
+        "CTC": 69786,
+        "bonus": [
+          {
+            "amount": 3346,
+            "payoutDate": "2023-10-01T03:30:50.309Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5051",
+    "fullName": "Employee 65",
+    "gender": "Male",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1981-06-07T08:12:13.374Z",
+    "mobileNo": "4317513870",
+    "permanentAddress": {
+      "street": "Street 30",
+      "city": "City 7",
+      "state": "State 2",
+      "zipcode": "91060"
+    },
+    "currentAddress": {
+      "street": "Street 90",
+      "city": "City 10",
+      "state": "State 2",
+      "zipcode": "93199"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2023-02-21T22:16:06.351Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2010
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "offeredCTC": "76063 USD",
+    "appraisal": {
+      "date": "2018-02-09T12:27:47.481Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-08-18T08:01:14.934Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 10",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC5740",
+      "branch": "Branch 8",
+      "accountNo": "190276583371",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF6655",
+      "UAN": "UAN4183",
+      "email": "employee87@example.com",
+      "mobile": "3059265695",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 3",
+      "Skill 7"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "93%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 59654,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": true,
+        "CTC": 96415,
+        "bonus": [
+          {
+            "amount": 1379,
+            "payoutDate": "2023-03-15T22:10:37.229Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5591",
+    "fullName": "Employee 44",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1984-03-13T21:27:07.154Z",
+    "mobileNo": "6057484248",
+    "permanentAddress": {
+      "street": "Street 75",
+      "city": "City 2",
+      "state": "State 1",
+      "zipcode": "71624"
+    },
+    "currentAddress": {
+      "street": "Street 84",
+      "city": "City 3",
+      "state": "State 2",
+      "zipcode": "43310"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2019-05-16T15:08:24.205Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2011
+      }
+    },
+    "designation": "Project Manager",
+    "department": "HR",
+    "offeredCTC": "80388 USD",
+    "appraisal": {
+      "date": "2021-07-04T20:50:42.663Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-04-21T01:04:49.287Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 24",
+      "bank": "Bank 10",
+      "bankIFSC": "IFSC7298",
+      "branch": "Branch 6",
+      "accountNo": "347051564315",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3828",
+      "UAN": "UAN8977",
+      "email": "employee45@example.com",
+      "mobile": "4727922895",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 4",
+      "Skill 1"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "77%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66283,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": false,
+        "CTC": 68456,
+        "bonus": [
+          {
+            "amount": 2114,
+            "payoutDate": "2023-12-06T10:46:37.282Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP3599",
+    "fullName": "Employee 88",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1997-10-06T06:21:53.581Z",
+    "mobileNo": "6565161906",
+    "permanentAddress": {
+      "street": "Street 92",
+      "city": "City 4",
+      "state": "State 2",
+      "zipcode": "51734"
+    },
+    "currentAddress": {
+      "street": "Street 100",
+      "city": "City 3",
+      "state": "State 4",
+      "zipcode": "17657"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2018-07-10T14:30:33.082Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2013
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Marketing",
+    "offeredCTC": "78400 USD",
+    "appraisal": {
+      "date": "2018-05-14T21:51:29.984Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-10-24T17:21:35.196Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 89",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC4905",
+      "branch": "Branch 6",
+      "accountNo": "513517943250",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4742",
+      "UAN": "UAN7568",
+      "email": "employee93@example.com",
+      "mobile": "6114855380",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 7",
+      "Skill 4",
+      "Skill 3"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "51%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 59920,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": true,
+        "CTC": 73756,
+        "bonus": [
+          {
+            "amount": 2723,
+            "payoutDate": "2023-10-17T22:27:53.040Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1110",
+    "fullName": "Employee 2",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1997-11-08T12:52:14.769Z",
+    "mobileNo": "1091367120",
+    "permanentAddress": {
+      "street": "Street 5",
+      "city": "City 5",
+      "state": "State 1",
+      "zipcode": "39013"
+    },
+    "currentAddress": {
+      "street": "Street 96",
+      "city": "City 7",
+      "state": "State 5",
+      "zipcode": "11275"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2016-09-09T04:01:38.377Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2022
+      }
+    },
+    "designation": "Project Manager",
+    "department": "HR",
+    "offeredCTC": "90350 USD",
+    "appraisal": {
+      "date": "2021-10-26T03:19:52.252Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-06-10T15:12:53.715Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 91",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC8580",
+      "branch": "Branch 7",
+      "accountNo": "708195377638",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5519",
+      "UAN": "UAN1943",
+      "email": "employee73@example.com",
+      "mobile": "4313951838",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 1",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "77%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 71134,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": false,
+        "CTC": 96729,
+        "bonus": [
+          {
+            "amount": 1779,
+            "payoutDate": "2023-08-30T07:38:29.870Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP6541",
+    "fullName": "Employee 65",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "2001-02-06T00:30:41.896Z",
+    "mobileNo": "8071895447",
+    "permanentAddress": {
+      "street": "Street 41",
+      "city": "City 7",
+      "state": "State 4",
+      "zipcode": "84335"
+    },
+    "currentAddress": {
+      "street": "Street 87",
+      "city": "City 6",
+      "state": "State 1",
+      "zipcode": "13333"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2018-09-18T12:21:13.208Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2022
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "offeredCTC": "89199 USD",
+    "appraisal": {
+      "date": "2023-05-18T07:59:41.964Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-01-20T01:30:29.669Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 96",
+      "bank": "Bank 1",
+      "bankIFSC": "IFSC4938",
+      "branch": "Branch 7",
+      "accountNo": "482726604339",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5886",
+      "UAN": "UAN6141",
+      "email": "employee81@example.com",
+      "mobile": "8700664490",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 2",
+      "Skill 10"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "61%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 60238,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": true,
+        "CTC": 83930,
+        "bonus": [
+          {
+            "amount": 3189,
+            "payoutDate": "2023-08-24T09:25:35.286Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP3245",
+    "fullName": "Employee 28",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1981-07-03T01:24:37.365Z",
+    "mobileNo": "5586257536",
+    "permanentAddress": {
+      "street": "Street 62",
+      "city": "City 5",
+      "state": "State 1",
+      "zipcode": "87624"
+    },
+    "currentAddress": {
+      "street": "Street 69",
+      "city": "City 6",
+      "state": "State 3",
+      "zipcode": "71235"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2021-11-18T12:06:01.098Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2018
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "offeredCTC": "78621 USD",
+    "appraisal": {
+      "date": "2022-08-02T19:16:50.182Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-11-18T03:17:16.159Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 73",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC9953",
+      "branch": "Branch 5",
+      "accountNo": "968964531710",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2533",
+      "UAN": "UAN7263",
+      "email": "employee88@example.com",
+      "mobile": "8082040959",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 3",
+      "Skill 10",
+      "Skill 10"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "40%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 62387,
+        "effectiveDate": "2024-01-03T09:25:46.244Z",
+        "current": true,
+        "CTC": 81378,
+        "bonus": [
+          {
+            "amount": 2720,
+            "payoutDate": "2023-02-10T03:52:54.598Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7783",
+    "fullName": "Employee 80",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1995-06-14T01:48:44.104Z",
+    "mobileNo": "4026364068",
+    "permanentAddress": {
+      "street": "Street 20",
+      "city": "City 2",
+      "state": "State 2",
+      "zipcode": "45064"
+    },
+    "currentAddress": {
+      "street": "Street 98",
+      "city": "City 10",
+      "state": "State 4",
+      "zipcode": "56417"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2022-07-12T18:01:27.628Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2015
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "IT",
+    "offeredCTC": "97339 USD",
+    "appraisal": {
+      "date": "2023-09-11T10:17:19.742Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B+",
+    "commitment": {
+      "tillDate": "2024-06-02T12:17:00.110Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 53",
+      "bank": "Bank 7",
+      "bankIFSC": "IFSC6481",
+      "branch": "Branch 2",
+      "accountNo": "996166510549",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5146",
+      "UAN": "UAN5509",
+      "email": "employee97@example.com",
+      "mobile": "1990496250",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 1",
+      "Skill 7"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "40%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66288,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 98189,
+        "bonus": [
+          {
+            "amount": 3677,
+            "payoutDate": "2023-12-25T14:11:23.510Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP9888",
+    "fullName": "Employee 35",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1997-01-26T06:24:53.669Z",
+    "mobileNo": "1102842687",
+    "permanentAddress": {
+      "street": "Street 81",
+      "city": "City 5",
+      "state": "State 2",
+      "zipcode": "85605"
+    },
+    "currentAddress": {
+      "street": "Street 72",
+      "city": "City 7",
+      "state": "State 3",
+      "zipcode": "86296"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-08-15T19:55:21.048Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2007
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "82176 USD",
+    "appraisal": {
+      "date": "2020-07-27T01:00:37.697Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-12-17T22:20:34.822Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 5",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC3122",
+      "branch": "Branch 6",
+      "accountNo": "687713098952",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5423",
+      "UAN": "UAN4036",
+      "email": "employee99@example.com",
+      "mobile": "5567456665",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 1",
+      "Skill 4"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "61%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 72654,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 81633,
+        "bonus": [
+          {
+            "amount": 3222,
+            "payoutDate": "2023-06-18T22:46:37.228Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP8526",
+    "fullName": "Employee 92",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1983-03-06T06:49:27.870Z",
+    "mobileNo": "6724223572",
+    "permanentAddress": {
+      "street": "Street 21",
+      "city": "City 3",
+      "state": "State 1",
+      "zipcode": "38282"
+    },
+    "currentAddress": {
+      "street": "Street 93",
+      "city": "City 9",
+      "state": "State 4",
+      "zipcode": "13988"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2016-05-28T20:09:02.369Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2005
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "HR",
+    "offeredCTC": "61335 USD",
+    "appraisal": {
+      "date": "2022-06-09T10:14:05.827Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-12-13T23:14:56.608Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 73",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC4572",
+      "branch": "Branch 5",
+      "accountNo": "501411193263",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8881",
+      "UAN": "UAN2031",
+      "email": "employee42@example.com",
+      "mobile": "6663845717",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 10",
+      "Skill 3",
+      "Skill 8"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "73%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 74154,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 75966,
+        "bonus": [
+          {
+            "amount": 1922,
+            "payoutDate": "2023-05-07T18:45:31.307Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5188",
+    "fullName": "Employee 91",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1984-10-22T17:19:58.769Z",
+    "mobileNo": "4323216691",
+    "permanentAddress": {
+      "street": "Street 89",
+      "city": "City 8",
+      "state": "State 4",
+      "zipcode": "75627"
+    },
+    "currentAddress": {
+      "street": "Street 8",
+      "city": "City 2",
+      "state": "State 2",
+      "zipcode": "67744"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2020-12-15T14:09:55.228Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2022
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "HR",
+    "offeredCTC": "54517 USD",
+    "appraisal": {
+      "date": "2022-06-20T17:44:14.936Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-10-14T03:03:04.133Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 51",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC5221",
+      "branch": "Branch 3",
+      "accountNo": "694546484629",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7625",
+      "UAN": "UAN4139",
+      "email": "employee93@example.com",
+      "mobile": "2040287967",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 7",
+      "Skill 2",
+      "Skill 5"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "72%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 52447,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 93603,
+        "bonus": [
+          {
+            "amount": 3218,
+            "payoutDate": "2023-11-21T00:16:16.254Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP8697",
+    "fullName": "Employee 65",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1994-05-04T05:00:00.210Z",
+    "mobileNo": "6656208568",
+    "permanentAddress": {
+      "street": "Street 89",
+      "city": "City 10",
+      "state": "State 4",
+      "zipcode": "37885"
+    },
+    "currentAddress": {
+      "street": "Street 94",
+      "city": "City 1",
+      "state": "State 2",
+      "zipcode": "15342"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2020-10-26T10:21:31.111Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2016
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "offeredCTC": "94887 USD",
+    "appraisal": {
+      "date": "2022-05-21T22:04:42.662Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-10-08T07:50:44.463Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 43",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC6274",
+      "branch": "Branch 9",
+      "accountNo": "970115758701",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4705",
+      "UAN": "UAN1859",
+      "email": "employee14@example.com",
+      "mobile": "1809537001",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 9",
+      "Skill 9",
+      "Skill 2"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "75%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 72664,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 76664,
+        "bonus": [
+          {
+            "amount": 1604,
+            "payoutDate": "2023-01-22T01:47:41.194Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1736",
+    "fullName": "Employee 54",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1988-05-06T04:22:43.068Z",
+    "mobileNo": "5809644750",
+    "permanentAddress": {
+      "street": "Street 45",
+      "city": "City 4",
+      "state": "State 5",
+      "zipcode": "33272"
+    },
+    "currentAddress": {
+      "street": "Street 55",
+      "city": "City 7",
+      "state": "State 2",
+      "zipcode": "28699"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2017-06-21T11:54:13.323Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2017
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "offeredCTC": "62949 USD",
+    "appraisal": {
+      "date": "2020-08-28T15:50:23.030Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-07-31T14:53:48.882Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 93",
+      "bank": "Bank 7",
+      "bankIFSC": "IFSC5295",
+      "branch": "Branch 3",
+      "accountNo": "611534025327",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8954",
+      "UAN": "UAN5871",
+      "email": "employee28@example.com",
+      "mobile": "5083883950",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 2",
+      "Skill 6",
+      "Skill 3"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "68%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66432,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 71000,
+        "bonus": [
+          {
+            "amount": 4484,
+            "payoutDate": "2023-07-11T11:22:55.710Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP9691",
+    "fullName": "Employee 5",
+    "gender": "Male",
+    "maritalStatus": null,
+    "dateOfBirth": "1991-10-14T04:00:52.131Z",
+    "mobileNo": "3799934209",
+    "permanentAddress": {
+      "street": "Street 64",
+      "city": "City 9",
+      "state": "State 2",
+      "zipcode": "92051"
+    },
+    "currentAddress": {
+      "street": "Street 70",
+      "city": "City 10",
+      "state": "State 5",
+      "zipcode": "72391"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2017-01-22T04:41:22.348Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2022
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "IT",
+    "offeredCTC": "69573 USD",
+    "appraisal": {
+      "date": "2019-01-19T08:36:53.368Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-02-04T19:53:46.688Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 37",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC8637",
+      "branch": "Branch 1",
+      "accountNo": "758098800986",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3852",
+      "UAN": "UAN5685",
+      "email": "employee71@example.com",
+      "mobile": "1394797808",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 5",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "94%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 55823,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 75320,
+        "bonus": [
+          {
+            "amount": 1342,
+            "payoutDate": "2023-04-27T01:21:15.793Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5407",
+    "fullName": "Employee 81",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1996-12-22T20:26:12.263Z",
+    "mobileNo": "1991458575",
+    "permanentAddress": {
+      "street": "Street 17",
+      "city": "City 10",
+      "state": "State 4",
+      "zipcode": "16058"
+    },
+    "currentAddress": {
+      "street": "Street 72",
+      "city": "City 3",
+      "state": "State 3",
+      "zipcode": "40784"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2019-08-03T14:39:00.113Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2001
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "51775 USD",
+    "appraisal": {
+      "date": "2023-10-30T14:23:09.776Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O+",
+    "commitment": {
+      "tillDate": "2024-04-17T02:32:17.635Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 86",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC3815",
+      "branch": "Branch 9",
+      "accountNo": "408270984681",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7459",
+      "UAN": "UAN1902",
+      "email": "employee86@example.com",
+      "mobile": "7543629539",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 4",
+      "Skill 6"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "78%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 65915,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 77189,
+        "bonus": [
+          {
+            "amount": 3112,
+            "payoutDate": "2023-04-24T15:08:38.073Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP2109",
+    "fullName": "Employee 79",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1980-07-01T09:25:40.237Z",
+    "mobileNo": "3206643048",
+    "permanentAddress": {
+      "street": "Street 46",
+      "city": "City 1",
+      "state": "State 3",
+      "zipcode": "68410"
+    },
+    "currentAddress": {
+      "street": "Street 83",
+      "city": "City 7",
+      "state": "State 3",
+      "zipcode": "85046"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2021-08-17T06:20:39.815Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2021
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "offeredCTC": "65014 USD",
+    "appraisal": {
+      "date": "2018-01-20T07:15:06.182Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-01-27T12:44:43.255Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 87",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC8584",
+      "branch": "Branch 8",
+      "accountNo": "539999767327",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8521",
+      "UAN": "UAN3817",
+      "email": "employee37@example.com",
+      "mobile": "2785617615",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 7",
+      "Skill 6",
+      "Skill 9"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "44%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 64756,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 74345,
+        "bonus": [
+          {
+            "amount": 2587,
+            "payoutDate": "2023-03-24T07:47:28.436Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5904",
+    "fullName": "Employee 18",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1982-02-08T14:44:27.414Z",
+    "mobileNo": "8470109433",
+    "permanentAddress": {
+      "street": "Street 53",
+      "city": "City 7",
+      "state": "State 4",
+      "zipcode": "53262"
+    },
+    "currentAddress": {
+      "street": "Street 86",
+      "city": "City 9",
+      "state": "State 4",
+      "zipcode": "97987"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2015-11-29T03:39:30.765Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2010
+      }
+    },
+    "designation": "Project Manager",
+    "department": "IT",
+    "offeredCTC": "67100 USD",
+    "appraisal": {
+      "date": "2022-12-14T23:19:49.126Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B+",
+    "commitment": {
+      "tillDate": "2024-02-06T01:39:21.417Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 2",
+      "bank": "Bank 2",
+      "bankIFSC": "IFSC2403",
+      "branch": "Branch 7",
+      "accountNo": "778281979465",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4296",
+      "UAN": "UAN6536",
+      "email": "employee4@example.com",
+      "mobile": "8498128452",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 8",
+      "Skill 8"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "50%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 60455,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 87346,
+        "bonus": [
+          {
+            "amount": 4718,
+            "payoutDate": "2023-06-28T20:10:27.261Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5798",
+    "fullName": "Employee 8",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1982-01-06T05:50:55.885Z",
+    "mobileNo": "4640078176",
+    "permanentAddress": {
+      "street": "Street 32",
+      "city": "City 3",
+      "state": "State 2",
+      "zipcode": "23217"
+    },
+    "currentAddress": {
+      "street": "Street 83",
+      "city": "City 4",
+      "state": "State 1",
+      "zipcode": "69700"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2017-07-23T22:26:05.206Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2000
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Finance",
+    "offeredCTC": "65320 USD",
+    "appraisal": {
+      "date": "2023-10-25T22:40:43.981Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-04-19T21:03:14.715Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 56",
+      "bank": "Bank 10",
+      "bankIFSC": "IFSC5848",
+      "branch": "Branch 10",
+      "accountNo": "418659975192",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8145",
+      "UAN": "UAN4806",
+      "email": "employee18@example.com",
+      "mobile": "7310594023",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 6",
+      "Skill 4"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "97%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 74856,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 74087,
+        "bonus": [
+          {
+            "amount": 2355,
+            "payoutDate": "2023-11-18T07:05:40.250Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP2082",
+    "fullName": "Employee 24",
+    "gender": "Male",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1987-10-04T19:50:38.212Z",
+    "mobileNo": "4907100188",
+    "permanentAddress": {
+      "street": "Street 22",
+      "city": "City 6",
+      "state": "State 3",
+      "zipcode": "73565"
+    },
+    "currentAddress": {
+      "street": "Street 10",
+      "city": "City 2",
+      "state": "State 3",
+      "zipcode": "61058"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2015-12-14T20:04:04.519Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2000
+      }
+    },
+    "designation": "Project Manager",
+    "department": "IT",
+    "offeredCTC": "74050 USD",
+    "appraisal": {
+      "date": "2020-09-05T17:41:10.421Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B+",
+    "commitment": {
+      "tillDate": "2024-10-16T03:40:14.157Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 85",
+      "bank": "Bank 10",
+      "bankIFSC": "IFSC1334",
+      "branch": "Branch 8",
+      "accountNo": "508404262791",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3685",
+      "UAN": "UAN7075",
+      "email": "employee7@example.com",
+      "mobile": "8478485185",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 1",
+      "Skill 10",
+      "Skill 1"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "81%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66166,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 87864,
+        "bonus": [
+          {
+            "amount": 4119,
+            "payoutDate": "2023-10-06T05:47:40.222Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1299",
+    "fullName": "Employee 29",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1992-05-17T16:30:26.925Z",
+    "mobileNo": "3949464979",
+    "permanentAddress": {
+      "street": "Street 23",
+      "city": "City 2",
+      "state": "State 1",
+      "zipcode": "17820"
+    },
+    "currentAddress": {
+      "street": "Street 26",
+      "city": "City 8",
+      "state": "State 3",
+      "zipcode": "60546"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2022-01-19T07:54:30.042Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2005
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "86723 USD",
+    "appraisal": {
+      "date": "2022-08-11T11:15:03.952Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-10-08T00:48:12.418Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 55",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC1131",
+      "branch": "Branch 5",
+      "accountNo": "976706684975",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5437",
+      "UAN": "UAN3292",
+      "email": "employee72@example.com",
+      "mobile": "1788421259",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 3",
+      "Skill 2"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "48%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 53171,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 80988,
+        "bonus": [
+          {
+            "amount": 2768,
+            "payoutDate": "2023-11-19T07:51:36.798Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP8463",
+    "fullName": "Employee 64",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1993-06-04T08:36:37.158Z",
+    "mobileNo": "1576837568",
+    "permanentAddress": {
+      "street": "Street 36",
+      "city": "City 8",
+      "state": "State 1",
+      "zipcode": "73401"
+    },
+    "currentAddress": {
+      "street": "Street 22",
+      "city": "City 6",
+      "state": "State 3",
+      "zipcode": "45709"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-09-19T13:16:04.873Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2008
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "offeredCTC": "74278 USD",
+    "appraisal": {
+      "date": "2023-07-01T10:57:27.274Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-02-21T15:16:21.862Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 16",
+      "bank": "Bank 2",
+      "bankIFSC": "IFSC3729",
+      "branch": "Branch 7",
+      "accountNo": "888442657257",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8482",
+      "UAN": "UAN5851",
+      "email": "employee48@example.com",
+      "mobile": "2415400472",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 2",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "93%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 51249,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 81642,
+        "bonus": [
+          {
+            "amount": 1746,
+            "payoutDate": "2023-11-26T19:20:12.998Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1635",
+    "fullName": "Employee 33",
+    "gender": "Male",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1997-09-23T02:09:28.297Z",
+    "mobileNo": "6336996839",
+    "permanentAddress": {
+      "street": "Street 1",
+      "city": "City 2",
+      "state": "State 3",
+      "zipcode": "20977"
+    },
+    "currentAddress": {
+      "street": "Street 88",
+      "city": "City 3",
+      "state": "State 3",
+      "zipcode": "91734"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2017-01-27T12:46:25.285Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2018
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "Finance",
+    "offeredCTC": "62802 USD",
+    "appraisal": {
+      "date": "2019-07-08T10:16:43.293Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-05-11T11:16:50.535Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 77",
+      "bank": "Bank 10",
+      "bankIFSC": "IFSC9889",
+      "branch": "Branch 5",
+      "accountNo": "864348172988",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7478",
+      "UAN": "UAN9557",
+      "email": "employee10@example.com",
+      "mobile": "1212652958",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 6",
+      "Skill 10"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "40%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 76633,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 85859,
+        "bonus": [
+          {
+            "amount": 3140,
+            "payoutDate": "2023-04-11T09:15:50.742Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP9166",
+    "fullName": "Employee 85",
+    "gender": "Female",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1997-07-08T16:44:10.008Z",
+    "mobileNo": "6477572429",
+    "permanentAddress": {
+      "street": "Street 32",
+      "city": "City 3",
+      "state": "State 3",
+      "zipcode": "40851"
+    },
+    "currentAddress": {
+      "street": "Street 80",
+      "city": "City 3",
+      "state": "State 5",
+      "zipcode": "88377"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2019-06-22T18:02:58.149Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2017
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "IT",
+    "offeredCTC": "51124 USD",
+    "appraisal": {
+      "date": "2018-05-20T00:15:27.876Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O+",
+    "commitment": {
+      "tillDate": "2024-08-26T06:48:06.844Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 75",
+      "bank": "Bank 10",
+      "bankIFSC": "IFSC3775",
+      "branch": "Branch 7",
+      "accountNo": "831892890454",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF9529",
+      "UAN": "UAN4049",
+      "email": "employee50@example.com",
+      "mobile": "5450869805",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 2",
+      "Skill 2",
+      "Skill 6"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "82%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 61857,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 83396,
+        "bonus": [
+          {
+            "amount": 1436,
+            "payoutDate": "2023-05-21T04:27:39.941Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1243",
+    "fullName": "Employee 65",
+    "gender": "Male",
+    "maritalStatus": null,
+    "dateOfBirth": "1999-03-31T19:58:05.605Z",
+    "mobileNo": "7368055006",
+    "permanentAddress": {
+      "street": "Street 54",
+      "city": "City 1",
+      "state": "State 2",
+      "zipcode": "61634"
+    },
+    "currentAddress": {
+      "street": "Street 48",
+      "city": "City 9",
+      "state": "State 1",
+      "zipcode": "86063"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2016-10-18T00:48:45.072Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2012
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "55354 USD",
+    "appraisal": {
+      "date": "2020-10-14T13:04:34.524Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-02-11T11:33:37.335Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 56",
+      "bank": "Bank 4",
+      "bankIFSC": "IFSC9898",
+      "branch": "Branch 3",
+      "accountNo": "662887459361",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7435",
+      "UAN": "UAN4097",
+      "email": "employee82@example.com",
+      "mobile": "1653251580",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 2",
+      "Skill 4",
+      "Skill 4"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "78%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 70530,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 94913,
+        "bonus": [
+          {
+            "amount": 2055,
+            "payoutDate": "2023-10-30T12:36:03.469Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1800",
+    "fullName": "Employee 78",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1984-09-24T08:07:53.977Z",
+    "mobileNo": "5877280423",
+    "permanentAddress": {
+      "street": "Street 40",
+      "city": "City 5",
+      "state": "State 2",
+      "zipcode": "79322"
+    },
+    "currentAddress": {
+      "street": "Street 46",
+      "city": "City 10",
+      "state": "State 1",
+      "zipcode": "55572"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-02-11T12:38:58.673Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2020
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "IT",
+    "offeredCTC": "86465 USD",
+    "appraisal": {
+      "date": "2022-08-22T16:45:22.856Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-05-11T12:00:22.331Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 93",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC8271",
+      "branch": "Branch 5",
+      "accountNo": "975707372291",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7335",
+      "UAN": "UAN6778",
+      "email": "employee26@example.com",
+      "mobile": "1064228061",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 6",
+      "Skill 2"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "92%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 65703,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 88345,
+        "bonus": [
+          {
+            "amount": 4897,
+            "payoutDate": "2023-12-11T19:03:54.841Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP8689",
+    "fullName": "Employee 10",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1999-02-24T12:56:30.767Z",
+    "mobileNo": "6635386617",
+    "permanentAddress": {
+      "street": "Street 93",
+      "city": "City 3",
+      "state": "State 2",
+      "zipcode": "36987"
+    },
+    "currentAddress": {
+      "street": "Street 74",
+      "city": "City 6",
+      "state": "State 1",
+      "zipcode": "25157"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2015-12-12T10:19:22.029Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2015
+      }
+    },
+    "designation": "Project Manager",
+    "department": "IT",
+    "offeredCTC": "92823 USD",
+    "appraisal": {
+      "date": "2022-10-04T03:50:22.449Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O+",
+    "commitment": {
+      "tillDate": "2024-06-06T06:52:00.690Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 48",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC2296",
+      "branch": "Branch 2",
+      "accountNo": "880449100165",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3546",
+      "UAN": "UAN6866",
+      "email": "employee67@example.com",
+      "mobile": "5948191239",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 9",
+      "Skill 6",
+      "Skill 3"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "88%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 58858,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 76837,
+        "bonus": [
+          {
+            "amount": 4875,
+            "payoutDate": "2023-01-24T15:55:55.229Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP2982",
+    "fullName": "Employee 40",
+    "gender": "Female",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1993-11-13T12:24:29.930Z",
+    "mobileNo": "7810111251",
+    "permanentAddress": {
+      "street": "Street 61",
+      "city": "City 4",
+      "state": "State 5",
+      "zipcode": "57432"
+    },
+    "currentAddress": {
+      "street": "Street 3",
+      "city": "City 6",
+      "state": "State 1",
+      "zipcode": "59454"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2021-07-13T13:12:37.608Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2016
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "HR",
+    "offeredCTC": "67572 USD",
+    "appraisal": {
+      "date": "2019-12-30T05:07:56.590Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B+",
+    "commitment": {
+      "tillDate": "2024-08-09T04:44:23.987Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 85",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC8539",
+      "branch": "Branch 7",
+      "accountNo": "461982258052",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2503",
+      "UAN": "UAN1406",
+      "email": "employee35@example.com",
+      "mobile": "2996944728",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 9",
+      "Skill 3",
+      "Skill 7"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "45%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 71959,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 87179,
+        "bonus": [
+          {
+            "amount": 3164,
+            "payoutDate": "2023-09-05T16:12:11.943Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5867",
+    "fullName": "Employee 56",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1986-01-21T09:00:13.280Z",
+    "mobileNo": "2447606238",
+    "permanentAddress": {
+      "street": "Street 99",
+      "city": "City 1",
+      "state": "State 1",
+      "zipcode": "31401"
+    },
+    "currentAddress": {
+      "street": "Street 49",
+      "city": "City 4",
+      "state": "State 4",
+      "zipcode": "78948"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-09-08T13:30:24.109Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2006
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "Marketing",
+    "offeredCTC": "68505 USD",
+    "appraisal": {
+      "date": "2019-02-02T14:00:55.700Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-10-13T09:23:37.310Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 97",
+      "bank": "Bank 1",
+      "bankIFSC": "IFSC6091",
+      "branch": "Branch 3",
+      "accountNo": "682440299278",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF9697",
+      "UAN": "UAN4368",
+      "email": "employee100@example.com",
+      "mobile": "4101159303",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 1",
+      "Skill 1"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "64%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 60726,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 79198,
+        "bonus": [
+          {
+            "amount": 1792,
+            "payoutDate": "2023-06-20T15:07:37.820Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7752",
+    "fullName": "Employee 83",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1984-08-16T12:13:51.140Z",
+    "mobileNo": "6915463032",
+    "permanentAddress": {
+      "street": "Street 25",
+      "city": "City 3",
+      "state": "State 4",
+      "zipcode": "79544"
+    },
+    "currentAddress": {
+      "street": "Street 84",
+      "city": "City 7",
+      "state": "State 1",
+      "zipcode": "23185"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2019-10-01T02:16:36.714Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2014
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "HR",
+    "offeredCTC": "86333 USD",
+    "appraisal": {
+      "date": "2022-03-03T10:46:16.847Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-06-19T03:42:35.611Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 41",
+      "bank": "Bank 1",
+      "bankIFSC": "IFSC3735",
+      "branch": "Branch 4",
+      "accountNo": "183553175463",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF1057",
+      "UAN": "UAN9668",
+      "email": "employee1@example.com",
+      "mobile": "7396744767",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 9",
+      "Skill 9",
+      "Skill 8"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Project",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "49%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 63808,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 60325,
+        "bonus": [
+          {
+            "amount": 1769,
+            "payoutDate": "2023-12-22T14:01:50.277Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1211",
+    "fullName": "Employee 49",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1982-12-22T02:59:01.955Z",
+    "mobileNo": "6327106582",
+    "permanentAddress": {
+      "street": "Street 28",
+      "city": "City 1",
+      "state": "State 2",
+      "zipcode": "43894"
+    },
+    "currentAddress": {
+      "street": "Street 85",
+      "city": "City 10",
+      "state": "State 5",
+      "zipcode": "57974"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2022-04-09T02:08:55.288Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2010
+      }
+    },
+    "designation": "Project Manager",
+    "department": "HR",
+    "offeredCTC": "61617 USD",
+    "appraisal": {
+      "date": "2021-09-09T01:55:04.195Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-02-07T06:10:40.352Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 49",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC8735",
+      "branch": "Branch 5",
+      "accountNo": "269679396422",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4760",
+      "UAN": "UAN2833",
+      "email": "employee25@example.com",
+      "mobile": "8895737675",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 1",
+      "Skill 7",
+      "Skill 10"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "41%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66836,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": false,
+        "CTC": 93738,
+        "bonus": [
+          {
+            "amount": 4578,
+            "payoutDate": "2023-10-08T20:24:39.582Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5813",
+    "fullName": "Employee 2",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1982-08-22T18:17:38.787Z",
+    "mobileNo": "7889587292",
+    "permanentAddress": {
+      "street": "Street 49",
+      "city": "City 5",
+      "state": "State 2",
+      "zipcode": "94695"
+    },
+    "currentAddress": {
+      "street": "Street 68",
+      "city": "City 1",
+      "state": "State 4",
+      "zipcode": "72680"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2019-11-17T08:01:54.561Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2013
+      }
+    },
+    "designation": "Project Manager",
+    "department": "IT",
+    "offeredCTC": "89798 USD",
+    "appraisal": {
+      "date": "2022-11-16T09:49:59.180Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-02-24T00:17:25.087Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 9",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC6936",
+      "branch": "Branch 6",
+      "accountNo": "244487816889",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5155",
+      "UAN": "UAN1270",
+      "email": "employee51@example.com",
+      "mobile": "1962750619",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 10",
+      "Skill 4"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "52%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 72732,
+        "effectiveDate": "2024-01-03T09:25:46.245Z",
+        "current": true,
+        "CTC": 87817,
+        "bonus": [
+          {
+            "amount": 3948,
+            "payoutDate": "2023-02-05T05:22:47.183Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1164",
+    "fullName": "Employee 92",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1985-07-27T07:48:33.867Z",
+    "mobileNo": "8179712279",
+    "permanentAddress": {
+      "street": "Street 44",
+      "city": "City 7",
+      "state": "State 5",
+      "zipcode": "78157"
+    },
+    "currentAddress": {
+      "street": "Street 63",
+      "city": "City 8",
+      "state": "State 1",
+      "zipcode": "29160"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2023-03-27T15:08:05.352Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2020
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Marketing",
+    "offeredCTC": "91426 USD",
+    "appraisal": {
+      "date": "2018-08-05T14:23:06.891Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O+",
+    "commitment": {
+      "tillDate": "2024-02-12T13:02:50.879Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 45",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC4449",
+      "branch": "Branch 4",
+      "accountNo": "830159199116",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2783",
+      "UAN": "UAN1600",
+      "email": "employee40@example.com",
+      "mobile": "5478014511",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 5",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "73%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 64062,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 67560,
+        "bonus": [
+          {
+            "amount": 2778,
+            "payoutDate": "2023-07-18T20:40:11.728Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP2683",
+    "fullName": "Employee 12",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1987-05-16T18:09:10.906Z",
+    "mobileNo": "8306912569",
+    "permanentAddress": {
+      "street": "Street 79",
+      "city": "City 8",
+      "state": "State 2",
+      "zipcode": "69595"
+    },
+    "currentAddress": {
+      "street": "Street 80",
+      "city": "City 4",
+      "state": "State 3",
+      "zipcode": "82625"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2023-01-29T04:14:55.149Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2004
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Marketing",
+    "offeredCTC": "98472 USD",
+    "appraisal": {
+      "date": "2019-07-24T09:53:01.076Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-05-26T17:50:33.551Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 59",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC8219",
+      "branch": "Branch 10",
+      "accountNo": "101887866498",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8284",
+      "UAN": "UAN2876",
+      "email": "employee65@example.com",
+      "mobile": "3182851094",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 1",
+      "Skill 8"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "69%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 50543,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 67258,
+        "bonus": [
+          {
+            "amount": 4044,
+            "payoutDate": "2023-06-21T17:20:25.238Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP4524",
+    "fullName": "Employee 24",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1981-09-26T17:43:30.129Z",
+    "mobileNo": "4297977747",
+    "permanentAddress": {
+      "street": "Street 61",
+      "city": "City 2",
+      "state": "State 3",
+      "zipcode": "23869"
+    },
+    "currentAddress": {
+      "street": "Street 68",
+      "city": "City 1",
+      "state": "State 4",
+      "zipcode": "17394"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-08-14T20:10:06.671Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2018
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "offeredCTC": "54953 USD",
+    "appraisal": {
+      "date": "2020-09-20T05:24:22.738Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-04-02T03:05:38.203Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 17",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC3566",
+      "branch": "Branch 9",
+      "accountNo": "672776958321",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF1297",
+      "UAN": "UAN7666",
+      "email": "employee14@example.com",
+      "mobile": "7397248925",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 7",
+      "Skill 10",
+      "Skill 4"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "87%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 64184,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 99676,
+        "bonus": [
+          {
+            "amount": 4636,
+            "payoutDate": "2023-03-24T09:29:47.538Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP8785",
+    "fullName": "Employee 51",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1990-07-04T11:50:12.275Z",
+    "mobileNo": "1369657147",
+    "permanentAddress": {
+      "street": "Street 100",
+      "city": "City 10",
+      "state": "State 1",
+      "zipcode": "80963"
+    },
+    "currentAddress": {
+      "street": "Street 59",
+      "city": "City 5",
+      "state": "State 1",
+      "zipcode": "91585"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2016-11-06T15:02:22.088Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2000
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Marketing",
+    "offeredCTC": "68316 USD",
+    "appraisal": {
+      "date": "2021-02-23T04:07:18.453Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-12-08T22:48:30.159Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 77",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC4972",
+      "branch": "Branch 7",
+      "accountNo": "856974126086",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF8936",
+      "UAN": "UAN2929",
+      "email": "employee52@example.com",
+      "mobile": "5911048771",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 3",
+      "Skill 8"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "100%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 77726,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 95969,
+        "bonus": [
+          {
+            "amount": 1391,
+            "payoutDate": "2023-08-02T18:12:05.497Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1185",
+    "fullName": "Employee 77",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1994-05-07T09:14:21.421Z",
+    "mobileNo": "8386418216",
+    "permanentAddress": {
+      "street": "Street 61",
+      "city": "City 5",
+      "state": "State 5",
+      "zipcode": "43467"
+    },
+    "currentAddress": {
+      "street": "Street 13",
+      "city": "City 1",
+      "state": "State 4",
+      "zipcode": "45016"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2016-08-11T22:19:02.849Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2014
+      }
+    },
+    "designation": "Project Manager",
+    "department": "HR",
+    "offeredCTC": "95609 USD",
+    "appraisal": {
+      "date": "2022-02-03T23:55:40.147Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-02-09T18:05:57.937Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 38",
+      "bank": "Bank 2",
+      "bankIFSC": "IFSC6130",
+      "branch": "Branch 5",
+      "accountNo": "278405935767",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2583",
+      "UAN": "UAN9156",
+      "email": "employee12@example.com",
+      "mobile": "8396071365",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 1",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "80%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 56101,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 76048,
+        "bonus": [
+          {
+            "amount": 1307,
+            "payoutDate": "2023-05-31T18:04:20.056Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7361",
+    "fullName": "Employee 41",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1994-07-11T11:03:59.410Z",
+    "mobileNo": "3099606473",
+    "permanentAddress": {
+      "street": "Street 92",
+      "city": "City 3",
+      "state": "State 5",
+      "zipcode": "97183"
+    },
+    "currentAddress": {
+      "street": "Street 96",
+      "city": "City 4",
+      "state": "State 3",
+      "zipcode": "65083"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2021-07-16T13:29:11.908Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2021
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "IT",
+    "offeredCTC": "88717 USD",
+    "appraisal": {
+      "date": "2020-07-30T11:54:15.182Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-02-19T22:36:01.964Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 62",
+      "bank": "Bank 1",
+      "bankIFSC": "IFSC1584",
+      "branch": "Branch 9",
+      "accountNo": "989506042975",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF5303",
+      "UAN": "UAN2686",
+      "email": "employee74@example.com",
+      "mobile": "2577071038",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 1",
+      "Skill 10"
+    ],
+    "workFromHome": true,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "68%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 55031,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 84565,
+        "bonus": [
+          {
+            "amount": 1725,
+            "payoutDate": "2023-05-08T07:45:58.317Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP1128",
+    "fullName": "Employee 65",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1986-05-01T11:36:10.518Z",
+    "mobileNo": "9236453959",
+    "permanentAddress": {
+      "street": "Street 45",
+      "city": "City 4",
+      "state": "State 5",
+      "zipcode": "97827"
+    },
+    "currentAddress": {
+      "street": "Street 83",
+      "city": "City 1",
+      "state": "State 3",
+      "zipcode": "55073"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2023-03-09T19:01:24.804Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2016
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Finance",
+    "offeredCTC": "72139 USD",
+    "appraisal": {
+      "date": "2021-03-13T09:47:02.375Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-06-12T11:19:30.245Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 54",
+      "bank": "Bank 4",
+      "bankIFSC": "IFSC2203",
+      "branch": "Branch 3",
+      "accountNo": "146717977397",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2552",
+      "UAN": "UAN6430",
+      "email": "employee58@example.com",
+      "mobile": "3593007599",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 7",
+      "Skill 9",
+      "Skill 7"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "44%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 63905,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 97558,
+        "bonus": [
+          {
+            "amount": 4651,
+            "payoutDate": "2023-04-10T20:10:01.547Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5995",
+    "fullName": "Employee 33",
+    "gender": "Male",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1991-03-02T05:30:39.671Z",
+    "mobileNo": "2073204879",
+    "permanentAddress": {
+      "street": "Street 39",
+      "city": "City 6",
+      "state": "State 4",
+      "zipcode": "15654"
+    },
+    "currentAddress": {
+      "street": "Street 75",
+      "city": "City 10",
+      "state": "State 4",
+      "zipcode": "78653"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2023-11-15T17:47:32.424Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2003
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "IT",
+    "offeredCTC": "89955 USD",
+    "appraisal": {
+      "date": "2021-02-16T09:05:22.932Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "B-",
+    "commitment": {
+      "tillDate": "2024-06-02T14:30:06.842Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 18",
+      "bank": "Bank 7",
+      "bankIFSC": "IFSC5997",
+      "branch": "Branch 2",
+      "accountNo": "221044618730",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF6922",
+      "UAN": "UAN1907",
+      "email": "employee29@example.com",
+      "mobile": "6856954179",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 1"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "46%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 73003,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 65623,
+        "bonus": [
+          {
+            "amount": 1581,
+            "payoutDate": "2023-04-01T06:45:36.415Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7618",
+    "fullName": "Employee 79",
+    "gender": "Female",
+    "maritalStatus": null,
+    "dateOfBirth": "1982-06-21T18:38:07.634Z",
+    "mobileNo": "1162460350",
+    "permanentAddress": {
+      "street": "Street 57",
+      "city": "City 8",
+      "state": "State 4",
+      "zipcode": "76057"
+    },
+    "currentAddress": {
+      "street": "Street 48",
+      "city": "City 10",
+      "state": "State 4",
+      "zipcode": "90123"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2021-03-30T17:43:14.217Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2009
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "IT",
+    "offeredCTC": "65871 USD",
+    "appraisal": {
+      "date": "2019-01-03T22:17:38.363Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-09-03T11:30:24.663Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 14",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC4925",
+      "branch": "Branch 8",
+      "accountNo": "830230908284",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7727",
+      "UAN": "UAN1841",
+      "email": "employee80@example.com",
+      "mobile": "2851175807",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 6",
+      "Skill 9",
+      "Skill 7"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "71%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 69437,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 73387,
+        "bonus": [
+          {
+            "amount": 3644,
+            "payoutDate": "2023-05-15T17:56:20.613Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5520",
+    "fullName": "Employee 87",
+    "gender": "Female",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1990-07-05T13:53:25.369Z",
+    "mobileNo": "8070715322",
+    "permanentAddress": {
+      "street": "Street 29",
+      "city": "City 7",
+      "state": "State 1",
+      "zipcode": "93926"
+    },
+    "currentAddress": {
+      "street": "Street 66",
+      "city": "City 7",
+      "state": "State 2",
+      "zipcode": "90514"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2023-05-02T15:43:34.147Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2010
+      }
+    },
+    "designation": "Data Scientist",
+    "department": "Marketing",
+    "offeredCTC": "95311 USD",
+    "appraisal": {
+      "date": "2022-11-28T12:57:02.212Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "B+",
+    "commitment": {
+      "tillDate": "2024-01-13T22:56:16.322Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 13",
+      "bank": "Bank 8",
+      "bankIFSC": "IFSC8227",
+      "branch": "Branch 2",
+      "accountNo": "515527241094",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3856",
+      "UAN": "UAN9830",
+      "email": "employee40@example.com",
+      "mobile": "5629664544",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 3",
+      "Skill 5",
+      "Skill 8"
+    ],
+    "workFromHome": false,
+    "workingStatus": "Available",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "60%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 69306,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 96026,
+        "bonus": [
+          {
+            "amount": 1680,
+            "payoutDate": "2023-07-01T11:31:58.982Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP9336",
+    "fullName": "Employee 1",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1992-07-28T04:36:52.570Z",
+    "mobileNo": "4388774057",
+    "permanentAddress": {
+      "street": "Street 6",
+      "city": "City 4",
+      "state": "State 4",
+      "zipcode": "44147"
+    },
+    "currentAddress": {
+      "street": "Street 76",
+      "city": "City 8",
+      "state": "State 4",
+      "zipcode": "76970"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2023-10-05T14:51:09.499Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2020
+      }
+    },
+    "designation": "Project Manager",
+    "department": "Finance",
+    "offeredCTC": "88041 USD",
+    "appraisal": {
+      "date": "2022-12-20T08:22:11.163Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "AB+",
+    "commitment": {
+      "tillDate": "2024-11-25T17:58:23.859Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 97",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC5698",
+      "branch": "Branch 3",
+      "accountNo": "190059872232",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF1833",
+      "UAN": "UAN5906",
+      "email": "employee60@example.com",
+      "mobile": "4693704884",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 7",
+      "Skill 9"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "68%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 66445,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 69536,
+        "bonus": [
+          {
+            "amount": 4256,
+            "payoutDate": "2023-08-14T17:29:44.271Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP4024",
+    "fullName": "Employee 11",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1991-07-20T16:49:23.281Z",
+    "mobileNo": "2632207717",
+    "permanentAddress": {
+      "street": "Street 22",
+      "city": "City 1",
+      "state": "State 1",
+      "zipcode": "55873"
+    },
+    "currentAddress": {
+      "street": "Street 12",
+      "city": "City 7",
+      "state": "State 5",
+      "zipcode": "43263"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2023-06-14T17:15:57.903Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2020
+      }
+    },
+    "designation": "Project Manager",
+    "department": "HR",
+    "offeredCTC": "74902 USD",
+    "appraisal": {
+      "date": "2019-03-28T14:30:14.315Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "O-",
+    "commitment": {
+      "tillDate": "2024-08-19T04:08:59.104Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 4",
+      "bank": "Bank 1",
+      "bankIFSC": "IFSC9300",
+      "branch": "Branch 2",
+      "accountNo": "916485252043",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF2154",
+      "UAN": "UAN9103",
+      "email": "employee39@example.com",
+      "mobile": "4048258475",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 4",
+      "Skill 6"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "78%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 73549,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 67678,
+        "bonus": [
+          {
+            "amount": 3390,
+            "payoutDate": "2023-05-12T19:16:47.939Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP4782",
+    "fullName": "Employee 33",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1997-08-27T14:56:57.677Z",
+    "mobileNo": "4449947220",
+    "permanentAddress": {
+      "street": "Street 15",
+      "city": "City 6",
+      "state": "State 1",
+      "zipcode": "28209"
+    },
+    "currentAddress": {
+      "street": "Street 71",
+      "city": "City 7",
+      "state": "State 3",
+      "zipcode": "31037"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2016-04-30T03:44:08.759Z",
+    "academics": {
+      "highestQualification": "Bachelor's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2012
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "IT",
+    "offeredCTC": "93228 USD",
+    "appraisal": {
+      "date": "2020-03-10T07:14:33.411Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "AB+",
+    "commitment": {
+      "tillDate": "2024-03-12T23:00:17.671Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 17",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC9166",
+      "branch": "Branch 6",
+      "accountNo": "738846489908",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF7594",
+      "UAN": "UAN9599",
+      "email": "employee98@example.com",
+      "mobile": "8219488237",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 8",
+      "Skill 5",
+      "Skill 6"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Project",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "42%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 56379,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 79652,
+        "bonus": [
+          {
+            "amount": 1986,
+            "payoutDate": "2023-02-28T13:33:30.573Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7688",
+    "fullName": "Employee 30",
+    "gender": "Male",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1992-07-22T19:13:01.412Z",
+    "mobileNo": "8561475637",
+    "permanentAddress": {
+      "street": "Street 65",
+      "city": "City 2",
+      "state": "State 1",
+      "zipcode": "59070"
+    },
+    "currentAddress": {
+      "street": "Street 10",
+      "city": "City 2",
+      "state": "State 1",
+      "zipcode": "73168"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2017-01-15T02:02:22.847Z",
+    "academics": {
+      "highestQualification": "Master's Degree",
+      "passing": {
+        "month": "May",
+        "year": 2016
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "52862 USD",
+    "appraisal": {
+      "date": "2019-09-22T08:33:51.822Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "A+",
+    "commitment": {
+      "tillDate": "2024-10-20T14:50:46.999Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 88",
+      "bank": "Bank 4",
+      "bankIFSC": "IFSC1882",
+      "branch": "Branch 4",
+      "accountNo": "309765748244",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3671",
+      "UAN": "UAN4207",
+      "email": "employee79@example.com",
+      "mobile": "2786171689",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 10",
+      "Skill 9",
+      "Skill 4"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "46%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 50897,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": true,
+        "CTC": 92792,
+        "bonus": [
+          {
+            "amount": 2520,
+            "payoutDate": "2023-12-02T21:57:58.026Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP5364",
+    "fullName": "Employee 12",
+    "gender": "Female",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1993-04-01T04:00:53.924Z",
+    "mobileNo": "2292963387",
+    "permanentAddress": {
+      "street": "Street 25",
+      "city": "City 7",
+      "state": "State 2",
+      "zipcode": "39421"
+    },
+    "currentAddress": {
+      "street": "Street 32",
+      "city": "City 10",
+      "state": "State 3",
+      "zipcode": "96399"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2017-09-29T11:41:22.237Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2022
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Marketing",
+    "offeredCTC": "60917 USD",
+    "appraisal": {
+      "date": "2018-02-24T08:55:12.683Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Fresher",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "AB+",
+    "commitment": {
+      "tillDate": "2024-02-15T23:00:58.402Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 24",
+      "bank": "Bank 5",
+      "bankIFSC": "IFSC9795",
+      "branch": "Branch 3",
+      "accountNo": "259879889770",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4196",
+      "UAN": "UAN8383",
+      "email": "employee9@example.com",
+      "mobile": "5580249842",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 2",
+      "Skill 3",
+      "Skill 3"
+    ],
+    "workFromHome": true,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "90%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 73116,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 70738,
+        "bonus": [
+          {
+            "amount": 2827,
+            "payoutDate": "2023-01-25T15:56:17.116Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7401",
+    "fullName": "Employee 46",
+    "gender": "Female",
+    "maritalStatus": "Divorced",
+    "dateOfBirth": "1986-11-26T10:58:53.969Z",
+    "mobileNo": "5198386625",
+    "permanentAddress": {
+      "street": "Street 97",
+      "city": "City 6",
+      "state": "State 2",
+      "zipcode": "80034"
+    },
+    "currentAddress": {
+      "street": "Street 23",
+      "city": "City 6",
+      "state": "State 2",
+      "zipcode": "19431"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-09-05T03:31:20.475Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2021
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "IT",
+    "offeredCTC": "54234 USD",
+    "appraisal": {
+      "date": "2023-06-24T01:46:52.382Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-12-10T11:26:27.742Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 34",
+      "bank": "Bank 3",
+      "bankIFSC": "IFSC4863",
+      "branch": "Branch 9",
+      "accountNo": "326877308857",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3492",
+      "UAN": "UAN5885",
+      "email": "employee94@example.com",
+      "mobile": "5588170546",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 4",
+      "Skill 9",
+      "Skill 2"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Project",
+    "employmentStatus": "Resigned",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "91%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 64031,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 76377,
+        "bonus": [
+          {
+            "amount": 2421,
+            "payoutDate": "2023-09-11T10:16:57.167Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP6503",
+    "fullName": "Employee 86",
+    "gender": "Female",
+    "maritalStatus": "Single",
+    "dateOfBirth": "1990-02-16T13:14:39.390Z",
+    "mobileNo": "8516318797",
+    "permanentAddress": {
+      "street": "Street 59",
+      "city": "City 3",
+      "state": "State 5",
+      "zipcode": "11909"
+    },
+    "currentAddress": {
+      "street": "Street 6",
+      "city": "City 1",
+      "state": "State 2",
+      "zipcode": "66242"
+    },
+    "isBillable": true,
+    "dateOfJoining": "2022-04-26T20:25:00.800Z",
+    "academics": {
+      "highestQualification": "High School",
+      "passing": {
+        "month": "May",
+        "year": 2002
+      }
+    },
+    "designation": "Software Engineer",
+    "department": "HR",
+    "offeredCTC": "96975 USD",
+    "appraisal": {
+      "date": "2022-09-30T22:26:07.601Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": false,
+    "bloodGroup": "A-",
+    "commitment": {
+      "tillDate": "2024-06-02T06:15:45.618Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 73",
+      "bank": "Bank 6",
+      "bankIFSC": "IFSC8467",
+      "branch": "Branch 5",
+      "accountNo": "456319318622",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF4112",
+      "UAN": "UAN1771",
+      "email": "employee44@example.com",
+      "mobile": "3907825877",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 2",
+      "Skill 5"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "Working",
+    "profileInformation": {
+      "complete": false,
+      "percentage": "66%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 52078,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 66758,
+        "bonus": [
+          {
+            "amount": 4798,
+            "payoutDate": "2023-01-30T19:46:27.599Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "employeeNumber": "EMP7766",
+    "fullName": "Employee 32",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dateOfBirth": "1987-09-03T11:53:28.266Z",
+    "mobileNo": "4168528500",
+    "permanentAddress": {
+      "street": "Street 75",
+      "city": "City 5",
+      "state": "State 5",
+      "zipcode": "80963"
+    },
+    "currentAddress": {
+      "street": "Street 16",
+      "city": "City 3",
+      "state": "State 3",
+      "zipcode": "74466"
+    },
+    "isBillable": false,
+    "dateOfJoining": "2017-03-01T00:29:15.310Z",
+    "academics": {
+      "highestQualification": "Ph.D.",
+      "passing": {
+        "month": "May",
+        "year": 2012
+      }
+    },
+    "designation": "QA Engineer",
+    "department": "Finance",
+    "offeredCTC": "69784 USD",
+    "appraisal": {
+      "date": "2022-02-03T09:36:04.846Z",
+      "remark": "Exceeds Expectations"
+    },
+    "experience": "Experienced",
+    "isJoinedAsFresher": true,
+    "bloodGroup": "AB-",
+    "commitment": {
+      "tillDate": "2024-11-12T23:01:42.043Z",
+      "remark": "Committed to ongoing projects"
+    },
+    "bankDetails": {
+      "beneficiaryName": "Beneficiary 68",
+      "bank": "Bank 9",
+      "bankIFSC": "IFSC6820",
+      "branch": "Branch 10",
+      "accountNo": "513255476032",
+      "cancelledCheque": "ObjectId_of_cancelled_cheque_file"
+    },
+    "PFDetails": {
+      "PFNumber": "PF3330",
+      "UAN": "UAN2019",
+      "email": "employee74@example.com",
+      "mobile": "5602571045",
+      "file": "ObjectId_of_PF_file"
+    },
+    "skills": [
+      "Skill 5",
+      "Skill 9",
+      "Skill 9"
+    ],
+    "workFromHome": false,
+    "workingStatus": "On Bench",
+    "employmentStatus": "On Leave",
+    "profileInformation": {
+      "complete": true,
+      "percentage": "94%"
+    },
+    "dateOfExit": null,
+    "finances": [
+      {
+        "salary": 72415,
+        "effectiveDate": "2024-01-03T09:25:46.246Z",
+        "current": false,
+        "CTC": 85219,
+        "bonus": [
+          {
+            "amount": 2594,
+            "payoutDate": "2023-06-01T04:55:24.760Z",
+            "bonusType": "Performance Bonus",
+            "note": "Achieved project milestones"
+          }
+        ]
+      }
+    ]
+  }
+]
